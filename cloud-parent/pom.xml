@@ -18,6 +18,14 @@
     <modules>
         <module>cloud-config-server</module>
         <module>cloud-config-client</module>
+        <module>cloud-eureka-server</module>
+        <module>cloud-admin-server</module>
+        <module>cloud-eureka-client</module>
+        <module>cloud-turbine-service</module>
+        <module>cloud-springboot-security</module>
+        <module>cloud-auth-service</module>
+        <module>cloud-service-hi</module>
+        <module>cloud-user-service</module>
     </modules>
 
     <properties>

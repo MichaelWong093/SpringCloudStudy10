@@ -1,0 +1,15 @@
+spring:
+  thymeleaf:
+    mode: HTML5
+    encoding: UTF-8
+    cache: false
+    prefix: classpath:/static/page/
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://{ip}:{port}/spring-security?userUnicode=true&characterEncoding=utf8&characterSetResults=utf8
+    username:
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
