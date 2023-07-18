@@ -15,7 +15,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <spring.admin.version>1.5.1</spring.admin.version>
+        <spring.admin.version>3.1.2</spring.admin.version>
     </properties>
 
     <dependencies>
